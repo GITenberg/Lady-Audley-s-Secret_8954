@@ -1,0 +1,52 @@
+_repo: Lady-Audley-s-Secret_8954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary Elizabeth
+    - Breddon, Miss
+    - White, Babington
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: "Lady Audley's Secret is a sensation novel by Mary Elizabeth Braddon\
+  \ published in 1862. It was Braddon's most successful and well-known novel. Critic\
+  \ John Sutherland (1989) described the work as \"the most sensationally successful\
+  \ of all the sensation novels\". The plot centres on \"accidental bigamy\" which\
+  \ was in literary fashion in the early 1860s. The plot was summarised by literary\
+  \ critic Elaine Showalter (1982): \"Braddon's bigamous heroine deserts her child,\
+  \ pushes husband number one down a well, thinks about poisoning husband number two\
+  \ and sets fire to a hotel in which her other male acquaintances are residing\"\
+  . Elements of the novel mirror themes of the real-life Constance Kent case of June\
+  \ 1860 which gripped the nation for years. A follow-up novel, Aurora Floyd, appeared\
+  \ in 1863. Braddon set the story in Ingatestone Hall, Essex, inspired by a visit\
+  \ there. There have been three silent film adaptations, one UK television version\
+  \ in 2000, and three minor stage adaptations.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8954'
+  wikidata: Q2738351
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Bigamy -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Deception -- Fiction'
+- GITenberg
+title: Lady Audley's Secret
+url: http://www.gutenberg.org/ebooks/8954
+wikipedia:
+- https://en.wikipedia.org/wiki/Lady_Audley%27s_Secret
+- https://nl.wikipedia.org/wiki/Lady_Audley%27s_Secret
+- https://it.wikipedia.org/wiki/Il_segreto_di_Lady_Audley
